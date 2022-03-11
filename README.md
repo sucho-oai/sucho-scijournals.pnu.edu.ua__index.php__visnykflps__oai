@@ -1,7 +1,7 @@
-## Project parent repositories
+## Parent Project 
 
  * [https://github.com/sucho-oai](https://github.com/sucho-oai)
- * [https://sr.ht/~justinkelly/SUCHO/](https://sr.ht/~justinkelly/SUCHO/)
+ * [https://github.com/sucho-oai/admin](https://github.com/sucho-oai/admin)
 
 ## About
 
